@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcometo our slide!"
+title: "Welcome to our slide!"
 ---
-Your text
+GitHub
 Use the left arrow to go back!
